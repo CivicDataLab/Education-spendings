@@ -9,3 +9,7 @@ As we are working with the education sector, it becomes very important to define
 
 # Step 1
 Since it is a huge dataset that we are dealing with, it becomes easy to comprehend data if it is sorted by various features. Thus grouping has been done in order to read data more clearly which will further help in extracting most appropriate keywords which defines the term “Education” very well. 
+
+# Step 2
+In the previous filtered dataset, there was exclusion of "demand" column and inclusion of "budget", "voted_charged" and "plan_nonplan". Since we need to identify most appropriate keywords to define "Education", I am including the excluded column ie "demand" and excluding the included columns. And hence filtered dataset looks like following now:
+
