@@ -13,5 +13,7 @@ Since it is a huge dataset that we are dealing with, it becomes easy to comprehe
 # Step 2
 In the previous filtered dataset, there was exclusion of "demand" column and inclusion of "budget", "voted_charged" and "plan_nonplan". Since we need to identify most appropriate keywords to define "Education", I am including the excluded column ie "demand" and excluding the included columns. And hence filtered dataset looks like following now:
 [Filtered data fy 2018_19](https://docs.google.com/spreadsheets/d/1Llx_QScHqaF_H6aN1FIWR_iQQo_34mYm/edit#gid=762457256)
+
 [Filtered data fy 2019_20](https://docs.google.com/spreadsheets/d/1tILhhPl3PosGG68WunqQwmociu4ET2hQ/edit#gid=320414212)
+
 
