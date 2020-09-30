@@ -13,4 +13,8 @@ Since it is a huge dataset that we are dealing with, it becomes easy to comprehe
 # Step 2
 In the previous filtered dataset, there was exclusion of "demand" column and inclusion of "budget", "voted_charged" and "plan_nonplan". Since we need to identify most appropriate keywords to define "Education", I am including the excluded column ie "demand" and excluding the included columns. 
 
+# Step 3 
+Since figuring out the optimal keywords for defining "Education" requires intensive research work which takes time, so moving ahead with sample data for education spending which is defined by assuming that "General education" defines the context. It reduced our data down to 293289 from 900736 data points. That's how EDA process begins and hence we are starting with univariate analysis. 
+ Disclaimer: Since this is government data,thus there is no need to clean the data as we focus on transparency and most optimal information. 
+
 
