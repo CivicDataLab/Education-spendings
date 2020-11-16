@@ -29,7 +29,9 @@ Now we have various DDO codes under which different descriptions are there for e
 
 # Method
 Step 1: Going to use the “NETPAYMENT” column from the dataset. 
+
 Step 2:  Transform values from this column to an appropriate format which is numbers so that model can understand the inputs. Moreover it overcomes the problem of different scales of values and different meanings. 
+
 Step 3: So, here comes the best moment to ask the question — “How are our models going to detect anomalies?”
 Well we should know first what “Normal” means ?
 And we should know what is normal deviation and what is “ too much “ deviation ? Because it will help in identifying abnormalities. 
