@@ -27,7 +27,7 @@ https://drive.google.com/file/d/11VUca17h43A6xlA-Ka7IO9D7i6aTIyXH/view?usp=shari
 We are trying to find out DDO’s transactions who are not performing well with respect to its own pattern and trend over time. Basically transactions which are not normal. Now this may sound very simple and straightforward but let me break down what is actually happening behind the scenes. 
 Now we have various DDO codes under which different descriptions are there for each DDO code. Let us take an example DDO_Code = 200 under which descriptions might be like BEEO Ghumarwin, BEEO Bilaspur,BEEO Bharari and so on. We will break the problem statement into many sub sections i.e Top to bottom approach. We are taking a particular DDO code and taking 10 DDO descriptions under the same ddo code and then we are analysing those ddo descriptions over time. That’s how we come to anomalous transactions of that particular DDO. 
 
-# Method
+# Method to be taken with modelling
 Step 1: Going to use the “NETPAYMENT” column from the dataset. 
 
 Step 2:  Transform values from this column to an appropriate format which is numbers so that model can understand the inputs. Moreover it overcomes the problem of different scales of values and different meanings. 
